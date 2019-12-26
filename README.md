@@ -6,4 +6,4 @@ Details of the folders:
 
 Dataset: the values of the two traditional features (CM features and VC features) and our proposed PVC features of the 8 open-source projects used in the paper
 
-Experimental Result: the matched PVC pairs of each identification combination (a cutoff of 0.05 for the KS test)
+ExperimentalResult: the matched PVC pairs of each identification combination (a cutoff of 0.05 for the KS test)
